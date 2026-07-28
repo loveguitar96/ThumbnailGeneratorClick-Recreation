@@ -6,7 +6,7 @@ NOTE: this was mainly meant for my use, some stuff will be a bit wonky so you're
 # SETUP
 EASY WAY:
 <br>
-just use the thumbnail model, everything is set up already
+just use the ThumbnailV2 model, everything is set up already
 <br>
 HARD WAY:
 if you haven't already, create a ViewportFrame
