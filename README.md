@@ -18,3 +18,10 @@ it will then change the orientation of the camera to -23.927, -153.659, 0 which 
 it will finally then zoom the camera out by 0.5 studs, because the replicated ZoomToExtents service ain't perfect and zooms in a bit too far
 
 you're done!!!! go have fun ig
+
+# FEW EXAMPLE IMAGES
+
+<img src="https://raw.githubusercontent.com/loveguitar96/ThumbnailGeneratorClick-Recreation/refs/heads/main/Screenshot%202026-07-27%20190349.png">
+<img src="https://raw.githubusercontent.com/loveguitar96/ThumbnailGeneratorClick-Recreation/refs/heads/main/Screenshot%202026-07-27%20190459.png">
+<img src="https://raw.githubusercontent.com/loveguitar96/ThumbnailGeneratorClick-Recreation/refs/heads/main/Screenshot%202026-07-27%20191421.png">
+<img src="https://raw.githubusercontent.com/loveguitar96/ThumbnailGeneratorClick-Recreation/refs/heads/main/Screenshot%202026-07-27%20193018.png">
